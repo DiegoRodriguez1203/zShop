@@ -249,8 +249,13 @@ body .wrap-body {
 /* -------------------------------------Container------------------------------ */
 /* ---------------------------------------------------------------------------- */
 
+#container{
+	width: 55%;
+	margin: auto;
+}
 #container .wrap-container {
 	background: #fff;
+	
 }
 
 .box-text {
