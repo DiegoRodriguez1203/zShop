@@ -1,11 +1,5 @@
 
-.rowmenu{
-  display: flex;
-  width: 55%;
-  justify-content: space-between;
-  align-items: center;
-  margin: auto;
-}
+
 .site-branding img{
   width: 110px;
 }
