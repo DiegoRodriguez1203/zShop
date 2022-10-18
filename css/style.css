@@ -528,7 +528,6 @@ article.single-post .entry-header {
 }
 
 article.single-post .entry-header h1.entry-title {
-	font-size: 40px;
 	line-height: 30px;
 	font-weight: 300;
 	margin: 0;
@@ -549,7 +548,6 @@ article .entry-title-blog a:hover {
 article .entry-header .time {
 	font-family: "Merriweather", Georgia, serif;
 	color: #888;
-	font-size: 17px;
 	padding-bottom: 10px;
 	display: block;
 }
@@ -562,9 +560,7 @@ article .entry-header .tags-links {
 	display: block;
 }
 
-article.single-post .entry-content {
-	padding: 40px 120px;
-}
+
 
 @media (max-width: 540px) {
 	article.single-post .entry-content {

@@ -121,3 +121,28 @@ grid-column: 3/4;
 margin-left: 35px;
 }
 
+/*------------------------------- ABOUT PAGE*/
+
+/* TITLE*/
+
+article .entry-header .time {
+	font-size: 12px;
+}
+article.single-post .entry-header h1.entry-title {
+	font-size: 32px;
+}
+.cat-links a{
+ font-size: 12px;
+}
+
+/* BODY*/
+article.single-post .entry-content {
+	padding: 40px 90px;
+	font-size: 11px;
+	line-height: 2;
+}
+
+article.single-post .entry-content h1  {
+font-size: 25px;
+}
+/*------------------------------- BLOG PAGE*/
