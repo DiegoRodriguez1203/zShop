@@ -42,3 +42,51 @@
     grid-column: 6/11;
     grid-row: 3/3;
 }
+
+/* SECCION BANNER FINAL*/
+.wrap-col{
+	display: grid;
+	grid-template-columns: 1fr 1fr ;
+}
+.box-text{
+grid-column: 1/2;
+}
+
+.box-text h1{
+    font-size: 35px;
+}
+
+.content-box.box-3 .lead {
+	font-size: 11px;
+
+}
+.content-box.box-3 .box-text {
+	padding: 40px 30px;
+	line-height: 1.5;
+}
+
+.content-box.box-3 h1 {
+	font-size: 30px;
+	color: #222;
+	line-height: 1.1;
+	margin: 30px 0;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+}
+
+.content-box.box-style-1 {
+	background: #fff url(../images/model.png) no-repeat 105% ;
+	background-size:400px;
+	color: #333;
+}
+.button-skin {
+	background-color: #fff;
+	color: #098F8E;
+	border: 1px solid #098F8E;
+	font-weight: bold;
+	width: auto;
+	padding: 5px 25px;
+	border-radius: 30px;
+	font-size: 15px;
+	margin: 30px 0 0;
+}
