@@ -146,3 +146,23 @@ article.single-post .entry-content h1  {
 font-size: 25px;
 }
 /*------------------------------- BLOG PAGE*/
+
+.flex-box{
+	display: flex;
+	justify-content: center;}
+.col-1-2{
+	width: 100%;
+}
+.box-text{
+	padding: 40px 40px;
+}
+.box-text h2{
+	font-size: 25px;
+	font-weight: 650;
+}
+.box-text p{
+	font-size: 11px;
+	line-height: 1.7;
+}
+
+
