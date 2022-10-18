@@ -52,10 +52,6 @@
 grid-column: 1/2;
 }
 
-.box-text h1{
-    font-size: 35px;
-}
-
 .content-box.box-3 .lead {
 	font-size: 11px;
 
@@ -90,3 +86,38 @@ grid-column: 1/2;
 	font-size: 15px;
 	margin: 30px 0 0;
 }
+
+/* FOOTER*/
+.wrap-footer{
+	width: 55%;
+	margin: auto;
+}
+
+.rowfooter{
+	width: 100%;
+	display: grid;
+	grid-template: 1fr / 1fr 1fr 1fr;
+	
+}
+.rowfooter h3{
+	font-size: 12px;
+	width: 150%;
+}
+.rowfooter p, .rowfooter address {
+	font-size: 9px;
+	width: 200%;
+	line-height: 2;
+}
+.col-footer-1{
+	grid-column: 1/2;
+}
+.col-footer-2{
+	margin-left: 15px;
+	grid-column: 2/3;
+	width: 210%;
+	}
+.col-footer-3{
+grid-column: 3/4;
+margin-left: 35px;
+}
+
